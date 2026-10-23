@@ -145,19 +145,25 @@ O processo é contado como o ciclo de vida da lótus, em cinco etapas: **Semente
 
 A apresentação do fundador (eu!). A foto fica escondida atrás de uma silhueta coberta de pétalas, com outras pétalas girando ao redor. Passando o mouse, o cursor joga tinta que revela a foto por baixo: a tinta escorre, seca sozinha em menos de um segundo, e as pétalas escorregam para fora dela e voltam quando ela seca. Ao lado, alguns fatos rápidos, como idade, cidade, idiomas e a motivação de todo dia.
 
-### 8. Perguntas frequentes
+### 8. Clientes
+
+<img src="./assets/clientes.jpg" alt="Anéis de cartões com o ícone e o nome de cada cliente girando em volta de uma flor de lótus" width="100%">
+
+Os clientes da Lottus Labs, os mesmos dos trabalhos selecionados, em cartões que giram em anéis ao redor de uma flor de lótus, entre pétalas que caem. Cada cartão traz o ícone do site do cliente, nas cores dele, e o nome ao lado; nomes longos quebram em duas linhas, como num logo. Com a rolagem, a câmera desce de uma vista de cima, onde os anéis aparecem como círculos, até a altura dos cartões. A seção também tem atalho no menu, em *Clientes*.
+
+### 9. Perguntas frequentes
 
 <img src="./assets/faq.jpg" alt="Seção de perguntas frequentes com uma resposta aberta" width="100%">
 
 As dúvidas mais comuns respondidas de forma direta: quanto custa, quanto tempo leva, domínio e hospedagem, celular e Google, atualizações depois da entrega, atendimento fora de São Paulo e o que acontece depois do lançamento. Para o que não estiver ali, um botão leva direto ao WhatsApp.
 
-### 9. Contato
+### 10. Contato
 
 <img src="./assets/contato.jpg" alt="Convite “Vamos fazer sua ideia florescer?” com botões de WhatsApp e Instagram sobre o lago" width="100%">
 
-Assim que a seção aparece, começa uma chuva leve de pétalas sobre o lago. Com a rolagem, as pétalas se juntam e formam uma flor de lótus sobre a água, logo abaixo do convite *Vamos fazer sua ideia florescer?*, com botões diretos para o WhatsApp e o Instagram. O lago aqui é o mesmo do início, então os pássaros, os morcegos e os visitantes escondidos também passam por lá.
+Assim que a seção aparece, começa uma chuva leve de pétalas sobre o lago. Com a rolagem, as pétalas se juntam e formam uma flor de lótus sobre a água, logo abaixo do convite *Vamos fazer sua ideia florescer?*, com botões diretos para o WhatsApp e o Instagram. Quem chega pelo *Contato* do menu desce direto para o fim da seção, com a flor já montada e o convite à vista, em vez de parar num lago ainda vazio. O lago aqui é o mesmo do início, então os pássaros, os morcegos e os visitantes escondidos também passam por lá.
 
-### 10. O final
+### 11. O final
 
 <img src="./assets/final.jpg" alt="Nome “Lottus Labs” pintado em letras grandes no fundo escuro" width="100%">
 
@@ -174,9 +180,9 @@ Boa parte das visitas chega pelo Instagram, então o site foi ajustado com cuida
 <img src="./assets/mobile-2.jpg" alt="Mais quatro telas da versão para celular: espiral de projetos, CEO, contato e o final com os botões do canto" width="100%">
 
 - **O título vem primeiro** e a flor fica logo abaixo, um pouco depois do meio da tela, também durante a volta de 360°.
-- **A espiral de projetos vem antes dos serviços**, centralizada, e gira enquanto cruza a tela, abrindo com os prints da Lottus Imobiliária e sempre com uma foto de frente.
+- **A espiral de projetos vem antes dos serviços**, centralizada, e gira enquanto cruza a tela, abrindo com os prints do IntegraSig, na mesma ordem dos projetos, e sempre com uma foto de frente.
 - **Botão “Travar tela”**: na foto do CEO e no final do site, um botão no canto segura a página para que dê para arrastar o dedo e revelar a foto ou pintar o nome, como se faz com o mouse no computador. Na foto, o dedo já revela o rosto mesmo sem travar.
-- **Acompanha a barra do navegador**: as telas se ajustam quando a barra do iPhone aparece e some, sempre ocupando a tela inteira.
+- **Firme quando a barra do navegador some**: as camadas fixas acompanham a barra do iPhone e sempre chegam ao fim da tela, mas as cenas 3D e o resto da página não mudam de tamanho, então nada pula no meio da rolagem.
 - **Detalhes pensados para o toque**: os selos dos serviços sempre cabem numa linha só, a espiral e os cartões de projetos giram com o dedo, e o atalho para o WhatsApp aparece logo depois da última pergunta frequente.
 - **Textos legíveis sobre o céu**: no tema escuro, o título e as frases da volta de 360° ganham uma sombra suave para não sumirem no brilho da lua.
 
@@ -283,16 +289,19 @@ Uma homenagem ao código mais famoso dos videogames. Ao digitá-lo, a tela ganha
 
 - **Cena 3D feita sob medida**: flor de lótus, lago com reflexo de verdade, nenúfares, montanhas, sol e pássaros de dia, lua cheia, estrelas, vagalumes e morcegos à noite. Nada de imagens prontas.
 - **Detalhes escondidos**: um Drácula que vira um bando de morcegos, uma carpa que salta do lago e uma garça que vem pescar aparecem de vez em quando, sem aviso, e o Konami Code destrava um modo 8-bit (veja [Detalhes ocultos](#detalhes-ocultos)).
-- **Topo de vidro**: o menu fica sempre à vista, numa barra de vidro quase transparente que deixa ver a cena passando por trás.
+- **Topo de vidro**: o menu fica sempre à vista, numa barra de vidro quase transparente que deixa ver a cena passando por trás. Em aparelhos mais fracos, o vidro deixa de desfocar ao vivo e fica um pouco mais opaco, para não pesar.
 - **Interativa de verdade**: as pétalas reagem ao mouse e ao toque, caem na água e formam ondas no reflexo.
 - **Rolagem com cara de filme**: a câmera gira ao redor da flor, as seções se encaixam umas nas outras e cada movimento acompanha a rolagem. Os títulos florescem ao aparecer: as letras sobem e se abrem como pétalas.
 - **Abertura honesta**: a flor da abertura acompanha o carregamento real do site, e as cenas 3D já ficam prontas antes de a página aparecer, para nada surgir vazio.
 - **Proporcional em qualquer tela**: o mesmo visual do notebook ao monitor grande, sem ficar pequeno nem estourar a tela.
+- **Prints nítidos**: os cartões de projetos são desenhados na resolução real da tela, inclusive no iPhone, e a espiral de serviços é desenhada maior e reduzida, para não borrar.
 - **Logo vivo**: a flor do logo respira, balança e abre as pétalas ao passar o mouse, e só se anima quando está visível.
 - **Microinterações**: cursor personalizado, chuva de pétalas dentro dos botões, selos que acendem e cartões que reagem ao movimento.
-- **Acessível**: respeita a opção “reduzir movimento” do sistema, funciona com o teclado e tem atalho para pular direto ao conteúdo.
-- **Leve no que importa**: a página aparece antes de qualquer coisa pesada; as cenas 3D começam a baixar logo depois, são montadas uma de cada vez e pausam quando saem da tela. No celular, os prints dos projetos vêm em tamanho de celular, e as fotos da espiral só carregam depois da abertura, porque ficam várias telas abaixo.
-- **Pronto para o Google e para compartilhar**: prévia leve e bonita no WhatsApp e nas redes sociais, dados estruturados para o Google (a empresa, os serviços e as perguntas frequentes), mapa do site, versões em português e inglês ligadas entre si e ícones próprios, inclusive para salvar na tela do celular.
+- **Acessível**: respeita a opção “reduzir movimento” do sistema, funciona com o teclado, tem atalho para pular direto ao conteúdo e textos com contraste de pelo menos 4,5:1, inclusive os rótulos rosa do tema claro.
+- **Leve no que importa**: a página aparece antes de qualquer coisa pesada; as cenas 3D começam a baixar logo depois, são montadas uma de cada vez e pausam quando saem da tela. Os visitantes do lago (pássaros, morcegos, Drácula, carpa e garça) vêm num pacote à parte e chegam logo depois da abertura. Em computadores sem aceleração de vídeo, a flor já aparece aberta, a água fica sem reflexo e as cenas só se movem enquanto algo acontece na tela, para não travar o resto da página. No celular, os prints vêm no tamanho certo para a tela, e as fotos da espiral só carregam depois da abertura, porque ficam várias telas abaixo.
+- **Sem trabalho à toa**: o navegador ignora as seções que estão longe da tela até a hora de mostrá-las, e as animações que ninguém está vendo ficam paradas. O círculo que abre o site, as pétalas que caem na abertura e o reflexo do lago rodam direto na placa de vídeo; o reflexo é desenhado do jeito que a tela mostra (sem trocar de programa a cada quadro) e, no celular, é refeito a cada dois quadros. Os nenúfares saem num desenho só. O rodapé, o cursor personalizado, a chuva de pétalas dos botões e o Konami Code carregam depois da página, e o cursor e as pétalas nem são baixados no celular.
+- **Pronto para o Google e para compartilhar**: prévia leve e bonita no WhatsApp e nas redes sociais, dados estruturados para o Google (a empresa, os serviços e as perguntas frequentes), mapa do site, versões em português e inglês ligadas entre si, ícones próprios, inclusive para salvar na tela do celular, e um resumo do site para assistentes de IA (`llms.txt`).
+- **Seguro**: cabeçalhos de segurança, com HTTPS obrigatório e proteção contra o site ser embutido em páginas de terceiros.
 
 <br>
 
@@ -305,11 +314,12 @@ Alguns dos trabalhos que aparecem no site:
 | **IntegraSig** | Plataforma SaaS de canal de denúncias digital e governança NR-1 para empresas, com relatos anônimos, trilha de auditoria e indicadores psicossociais. | [Visitar](https://integrasig.com.br/landing-page) |
 | **Lottus Imobiliária** | Site imobiliário de alto padrão em São Paulo, com vitrine de imóveis e uma experiência editorial elegante. | [Visitar](https://lottus-imobiliaria.vercel.app/) |
 | **Blindalt** | Blindagem arquitetônica com um teste balístico em 3D: o visitante rola a página e vê o projétil se desfazer no vidro. | [Visitar](https://blindalt.vercel.app/) |
+| **Junior Carvalho** | Relógios de luxo com procedência: com a rolagem, um relógio se desmonta peça por peça em 3D, cada modelo ganha uma sala só dele e uma página de detalhes, com contato direto pelo WhatsApp. | [Visitar](https://junior-carvalho.vercel.app/) |
+| **Brisola Mecânica** | Oficina mecânica premium em Sorocaba/SP: uma estrada leva o carro até a oficina, uma roda se desmonta em 3D peça por peça e as avaliações do Google ficam à vista. | [Visitar](https://brisola-mecanica.vercel.app/) |
 | **Duetto** | Agência de publicidade full service, com tipografia em 3D, o método em quatro tempos e contato direto pelo WhatsApp. | [Visitar](https://duetto-nine.vercel.app/) |
-| **João Carvalho** | Relógios de luxo com procedência: com a rolagem, um relógio se desmonta peça por peça em 3D, e cada modelo ganha uma sala só dele. | [Visitar](https://junior-carvalho.vercel.app/) |
 | **R&R Pavers Group** | Empresa de pavers e áreas externas em Tampa Bay, nos Estados Unidos, com antes e depois para arrastar, galeria de obras e orçamento grátis. | [Visitar](https://rer-pavers-group.vercel.app/) |
 | **Vitória Rossini** | Página pessoal de uma futura fisioterapeuta, com a jornada acadêmica e uma contagem regressiva para a formatura. | [Visitar](https://vitoria-rossini.vercel.app/) |
-| **Dudu Cortes** | Barbearia em Itu/SP com agendamento pelo WhatsApp, galeria de cortes e avaliações dos clientes. | [Visitar](https://dudu-cortes.vercel.app/) |
+| **Dudu Cortes** | Barbearia em Itu/SP com agendamento pelo WhatsApp, galeria de cortes e avaliações dos clientes. | [Visitar](https://dudu-cortes.com.br/) |
 
 <br>
 
@@ -366,6 +376,6 @@ O nome, a marca, o logo, os textos e as imagens da **Lottus Labs** pertencem à 
 
 <div align="center">
 
-> Feito com 🪷 em São Paulo, por Guilherme Francisco Pereira.
+> Feito por Guilherme Francisco Pereira.
 
 </div>
